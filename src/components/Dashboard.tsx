@@ -97,7 +97,7 @@ const Dashboard = () => {
           <div className="p-6">
             <div className="flex items-center gap-2 mb-8">
               <Zap className="h-6 w-6 text-primary" />
-              <h1 className="text-xl font-bold">Context Keeper</h1>
+              <h1 className="text-xl font-bold">Keyper</h1>
             </div>
 
             <nav className="space-y-2">

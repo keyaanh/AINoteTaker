@@ -230,7 +230,7 @@ const LandingPage = () => {
                 <Button
                   size="lg"
                   variant="outline"
-                  className="text-lg px-8 py-3 border-white text-white hover:bg-white hover:text-primary"
+                  className="text-lg px-8 py-3 "
                 >
                   View Pricing
                 </Button>
